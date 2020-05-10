@@ -1,0 +1,57 @@
+Team Members
+
+Name              USN
+*Vedavedya B H  1KS18CS112
+*Venkatesh M N  1KS18CS114
+*Rahul P        1KS18CS078
+
+
+Contribution
+
+
+Vedavedya B H      Logic and coding
+Venkatesh M N      Debugging
+Rahul P            Modification
+
+
+
+How it works?.
+
+*This code is written in c++.
+*(Due to some problems) Give the inputs inside the code itself
+*Since the code cannot take inputs from the file, we need to manually give the inputs inside the
+code.
+*Give the size i.e V and E.
+*Then give the edges manually after the space provided in the main function.(after the equals
+symbol)
+Ex:
+int V =3 ;
+int E =4 ;
+struct Gp* graph = CG(V, E);
+graph->edge[0].src =1 ;
+graph->edge[0].dest =2 ;
+graph->edge[0].weight = 3;
+*Complie the program.
+*Run the program
+
+
+Challenges Faced
+
+*Connecting to teammates during this quarantine.
+*Coding in a clean and efficient way.
+*Distribution of work among the team members.
+*Electricity (domestic problems)
+
+
+What we learnt from this project
+
+*Use of digital medium to solve the problem
+*How to analyse a problem systematically
+*Handling a problem professionally
+
+
+*Reference
+
+Tutorial'spoint
+Wikipedia
+Geeksforgeeks
